@@ -1,3 +1,4 @@
+-- Group project for MySQL course 
 CREATE DATABASE Gym_Management;
 
 USE Gym_Management;
